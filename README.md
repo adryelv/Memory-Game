@@ -17,13 +17,13 @@ Um jogo da memória simples feito com HTML, CSS e JavaScript. O objetivo é enco
 - Reinício automático após finalização
 
 - ## 🛠️ Tecnologias
-- 
+
 - HTML5
 - CSS3
 - JavaScript (puro)
 
 - ## 📚 Aprendizados
-- 
+
 Durante o desenvolvimento, aprofundei meus conhecimentos em:
 - Manipulação de DOM com JavaScript
 - Estruturação de projetos front-end
