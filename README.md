@@ -4,7 +4,8 @@ Um jogo da memória simples feito com HTML, CSS e JavaScript. O objetivo é enco
 
 🔗 [Clique aqui para jogar](https://adryelv.github.io/Memory-Game/)
 </br>
-![Jogo da Memória rodando]
+</br>
+# [Jogo da Memória rodando]
 <img width="796" height="945" alt="memorygame" src="https://github.com/user-attachments/assets/61f26f9b-971b-4cb3-923a-739dab640511" />
 
 
