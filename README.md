@@ -3,6 +3,7 @@
 Um jogo da memória simples feito com HTML, CSS e JavaScript. O objetivo é encontrar os pares de cartas com o menor número de tentativas possível. Criado como exercício de lógica e manipulação de DOM.
 
 🔗 [Clique aqui para jogar](https://adryelv.github.io/Memory-Game/)
+</br>
 ![Jogo da Memória rodando]
 <img width="796" height="945" alt="memorygame" src="https://github.com/user-attachments/assets/61f26f9b-971b-4cb3-923a-739dab640511" />
 
